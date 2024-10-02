@@ -85,6 +85,11 @@ export const languages = {
     name: "Turkish",
     emoji: "🇹🇷",
     contributors: ["https://github.com/slideglide"]
+  },
+  "ja-ja": {
+    name: "Japanese",
+    emoji: "🇯🇵",
+    contributors: ["https://github.com/spookehneko"]
   }
 };
 
